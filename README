@@ -1,0 +1,13 @@
+PDS4 Tools is a package intended to allow easy read-in of PDS4
+data and meta-data into Python.
+
+All common PDS4 data products are supported.
+
+Included in the package are a read-in API and a cross-OS GUI to
+visualize the products.
+
+User Manual is available at:
+http://sbndev.astro.umd.edu/pds4_tools_docs/user_manual.html
+
+Additional documentation is available online at:
+http://sbndev.astro.umd.edu/wiki/Python_PDS4_Tools

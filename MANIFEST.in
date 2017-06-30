@@ -1,0 +1,7 @@
+include LICENSES
+include INSTALL
+include README
+include CREDITS
+include pds4_tools/viewer/logo/*
+recursive-include doc *
+recursive-include tests *

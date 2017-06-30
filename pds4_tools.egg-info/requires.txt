@@ -1,0 +1,5 @@
+numpy
+
+[viewer]
+Tkinter
+matplotlib
